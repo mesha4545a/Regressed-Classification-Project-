@@ -14,5 +14,6 @@ This ReadMe file contains all the materials of the requested weekend project for
 
 - [Project GitHub File]()
 - [Draft paper](https://docs.google.com/document/d/1DMXSEI7nSUCRcvJ7Drws8jSFzk9vChnL8qw6nnX790w/edit)
+- Data: [Income Bracket Prediction Data](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/), [Data Dictionary](https://archive.ics.uci.edu/ml/datasets/Adult), [Starter code](https://gist.github.com/gumdropsteve/25e40b0ab0b5a6a7d51f11c00f91d0bb)
 
    
