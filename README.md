@@ -23,7 +23,7 @@ This ReadMe file contains all the materials of the requested weekend project for
      -  [Data Dictionary](https://archive.ics.uci.edu/ml/datasets/Adult)
      - [Starter code](https://gist.github.com/gumdropsteve/25e40b0ab0b5a6a7d51f11c00f91d0bb)
      
- - Not:
+ - Note:
      - “fnlwgt”: Continuous variable, represents final weight, which is the number of units in the target population that the responding unit represents. - from [here](https://www.kaggle.com/uciml/adult-census-income/discussion/32698)
   
  - Models:
@@ -33,7 +33,7 @@ This ReadMe file contains all the materials of the requested weekend project for
       
 
 
- - Resources: (URLs) that we used to know some solutions
+ - Resources: that we used to know some solutions
       - [Predicting Earning Potential using the Adult Dataset](https://rstudio-pubs-static.s3.amazonaws.com/235617_51e06fa6c43b47d1b6daca2523b2f9e4.html#:~:text=The%20continuous%20variable%20fnlwgt%20represents,of%20the%20discrete%20variable%20education%20)
       - [feature extraction](https://scikit-learn.org/stable/modules/feature_extraction.html#loading-features-from-dicts)
       - [sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
