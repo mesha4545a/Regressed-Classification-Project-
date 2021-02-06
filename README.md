@@ -33,12 +33,14 @@ This ReadMe file contains all the materials of the requested weekend project for
       
 
 
- - Resources (URLs) that we used to know some solutions:
+ - Resources: (URLs) that we used to know some solutions
       - [Predicting Earning Potential using the Adult Dataset](https://rstudio-pubs-static.s3.amazonaws.com/235617_51e06fa6c43b47d1b6daca2523b2f9e4.html#:~:text=The%20continuous%20variable%20fnlwgt%20represents,of%20the%20discrete%20variable%20education%20)
       - [feature extraction](https://scikit-learn.org/stable/modules/feature_extraction.html#loading-features-from-dicts)
       - [sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
 
 
+### **Conclusion**
+In the end, We enjoyed a lot during all the phases of this project. And we believe that this was one of the most interesting projects that we have done because of many factors. Some of these factors are the skills and the solved confusions that we gained from the team-working, and we were able to apply most of our learning outcomes of the entire python/machine learning sections from this data science bootcamp. Many thanks to both of our amazing instructors, [Mr. Winston Robson](https://github.com/gumdropsteve) & [Mr. Mikio Harman](https://github.com/mpHarm88), they offered so much effort and help to deliver us to this point of learning, which we consider it in a higher level than where we were standing before 3 months
 
 
 
