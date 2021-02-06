@@ -13,6 +13,6 @@ This ReadMe file contains all the materials of the requested weekend project for
 [![image](https://user-images.githubusercontent.com/48656800/107124646-2fc97300-68b6-11eb-86d0-3f0dc1df13cb.png)](https://docs.google.com/document/d/1-ksC7qJ5qJxhK4fwcgyNZptGHANpj7tE8GfaFnLKYjA/edit)
 
 - [Project GitHub File]()
--[Draft paper](https://docs.google.com/document/d/1DMXSEI7nSUCRcvJ7Drws8jSFzk9vChnL8qw6nnX790w/edit)
+- [Draft paper](https://docs.google.com/document/d/1DMXSEI7nSUCRcvJ7Drws8jSFzk9vChnL8qw6nnX790w/edit)
 
    
