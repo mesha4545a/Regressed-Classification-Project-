@@ -25,8 +25,8 @@ This ReadMe file contains all the materials of the requested weekend project for
      
  - A Not:
      -“fnlwgt”: Continuous variable, represents final weight, which is the number of units in the target population that the responding unit represents. - from [here](https://www.kaggle.com/uciml/adult-census-income/discussion/32698)
-     
- - Models:
+  
+ - Models:\
       -  [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
       -  [SGDClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html)
       -  [KNeighborsClassifie](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
