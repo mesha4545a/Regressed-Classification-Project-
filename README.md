@@ -10,7 +10,7 @@ This ReadMe file contains all the materials of the requested weekend project for
     - [*Shaikha AlBilais*](https://github.com/shi5a)
 - Project Report:
 
-[![image](https://user-images.githubusercontent.com/48656800/107124546-9ef29780-68b5-11eb-9284-3049f3722ebb.png)](https://docs.google.com/document/d/1-ksC7qJ5qJxhK4fwcgyNZptGHANpj7tE8GfaFnLKYjA/edit)
+[![image](https://user-images.githubusercontent.com/48656800/107124646-2fc97300-68b6-11eb-86d0-3f0dc1df13cb.png)](https://docs.google.com/document/d/1-ksC7qJ5qJxhK4fwcgyNZptGHANpj7tE8GfaFnLKYjA/edit)
 
 - [Project GitHub File]()
 
