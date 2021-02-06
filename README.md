@@ -30,6 +30,11 @@ This ReadMe file contains all the materials of the requested weekend project for
       - [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
       - [SGDClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html)
       - [KNeighborsClassifie](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+      
+ - Resources: (URLs) that we used to know some solutions.
+       - [Predicting Earning Potential using the Adult Dataset](https://rstudio-pubs-static.s3.amazonaws.com/235617_51e06fa6c43b47d1b6daca2523b2f9e4.html#:~:text=The%20continuous%20variable%20fnlwgt%20represents,of%20the%20discrete%20variable%20education%20)
+       - [feature extraction](https://scikit-learn.org/stable/modules/feature_extraction.html#loading-features-from-dicts)
+       - [sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
 
 
     
