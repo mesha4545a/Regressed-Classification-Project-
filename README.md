@@ -9,6 +9,6 @@ This ReadMe file contains all the materials of the requested weekend project for
    - [Shaima AlJahani ](https://github.com/mesha4545a)
    - [Shaikha AlBilais](https://github.com/shi5a)
 - Project Report:
-[![image](https://user-images.githubusercontent.com/48656800/107124449-052aea80-68b5-11eb-8f79-5e79b5be35fa.png)](https://docs.google.com/document/d/1-ksC7qJ5qJxhK4fwcgyNZptGHANpj7tE8GfaFnLKYjA/edit)
+[![image]((https://user-images.githubusercontent.com/48656800/107124490-4cb17680-68b5-11eb-8e29-a19eba0f167b.png))](https://docs.google.com/document/d/1-ksC7qJ5qJxhK4fwcgyNZptGHANpj7tE8GfaFnLKYjA/edit)
 
    
