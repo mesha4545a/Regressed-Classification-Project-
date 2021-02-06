@@ -24,7 +24,7 @@ This ReadMe file contains all the materials of the requested weekend project for
      - [Starter code](https://gist.github.com/gumdropsteve/25e40b0ab0b5a6a7d51f11c00f91d0bb)
      
  - A Not:
-     -“fnlwgt”: Continuous variable, represents final weight, which is the number of units in the target population that the responding unit represents. - from [here](https://www.kaggle.com/uciml/adult-census-income/discussion/32698)
+     - “fnlwgt”: Continuous variable, represents final weight, which is the number of units in the target population that the responding unit represents. - from [here](https://www.kaggle.com/uciml/adult-census-income/discussion/32698)
   
  - Models:
       - [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
